@@ -1,4 +1,4 @@
-# stockArchive
+# stock_archive
 A stock archive made using nodeJs, ExpressJs, React and MongoDB
 
 #instructions
