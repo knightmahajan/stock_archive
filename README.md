@@ -1,4 +1,7 @@
 # stock_archive
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/knightmahajan/stock_archive.svg)](https://greenkeeper.io/)
+
 A stock archive made using nodeJs, ExpressJs, React and MongoDB
 
 #instructions
